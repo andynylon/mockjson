@@ -1,38 +1,4 @@
 {
-    "sortBy": {
-        "flightTime": [
-            105,
-            104,
-            103,
-            89,
-            88,
-            87,
-            20,
-            13,
-            12,
-            11,
-            10,
-            102
-        ],
-        "penaltyPoints": [
-            1,
-            0,
-            89,
-            88,
-            87,
-            2,
-            3,
-            4,
-            105,
-        ],
-        "price": [
-            0,
-            1,
-            89,
-            88,
-            87,
-        ]
-    },
     "itineraries": [
         {
             "id": "CPHAMS2204300910VYVY8447DTRUE",
@@ -189,21 +155,5 @@
             "test"
         ],
     },
-    "searchParameters": {
-        "topLevelDomain": "dk",
-        "cabinClass": "ECONOMY",
-        "passengers": {
-            "adults": 1,
-            "children": 0,
-            "infants": 0
-        },
-        "flights": [
-            {
-                "departure": "CPH",
-                "arrival": "AMS",
-                "departureDateTime": "30.04.2022 08:00:00"
-            }
-        ],
-        "flexibleSearch": 0
-    }
+    
 }
